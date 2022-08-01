@@ -1,7 +1,7 @@
 # Project Name: DA-Baby-Step
 
 ----
-# Project Objetive: Problem Statement
+# Project Objective: Problem Statement
 
 
 ----
